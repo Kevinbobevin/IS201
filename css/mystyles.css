@@ -1,0 +1,35 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
+
+}
+.listheading{
+
+    font-weight: bold;
+    color: white;
+    font-size: 15px;
+
+}
+
+.backgroud{
+    background-image: url('../Images/Trees_for_back.jpg');
+    background-position: top right;
+}
+
+a:hover{ text-decoration: underline;
+    font-weight: bold;
+    font-size: 16px;}
+.givesomespace{
+    top: 50px;
+    
+}
+
+p{
+    color: white;
+    font-weight: bold;
+    
+}
+.border{
+    border-top: 2px red;
+    border-bottom: 2px red;
+}
+
